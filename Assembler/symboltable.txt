@@ -1,0 +1,4 @@
+   LC    symbol 
+
+ | 1001 | LOOP1|
+ | 1005 | LOOP2|
